@@ -1,0 +1,7 @@
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+input/RS04_movies.csv
+input/RS04_ratings.csv
